@@ -1,6 +1,9 @@
 # VIE_FFT
 A Volume Integral Equation-Fast Fourier Transform Method for Modeling Optical Response of Nanostructures
 
+![License](https://img.shields.io/badge/license-GPL3.0-orange)
+[![Visits Badge](https://badges.strrl.dev/visits/Sha-Group/VIE_FFT)](https://github.com/Sha-Group/VIE_FFT)
+
 ## Publication
 1.  Wei E.I. Sha, Wallace C.H. Choy, Yongpin P. Chen, and Weng Cho Chew, “Optical Design of Organic Solar Cell with Hybrid Plasmonic System,” Optics Express, vol. 19, no. 17, pp. 15908-15918, Aug. 2011.
 
