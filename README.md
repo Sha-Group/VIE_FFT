@@ -5,9 +5,9 @@ A Volume Integral Equation-Fast Fourier Transform Method for Modeling Optical Re
 [![Visits Badge](https://badges.strrl.dev/visits/Sha-Group/VIE_FFT)](https://github.com/Sha-Group/VIE_FFT)
 
 ## Publication
-1.  Wei E.I. Sha, Wallace C.H. Choy, Yongpin P. Chen, and Weng Cho Chew, “Optical Design of Organic Solar Cell with Hybrid Plasmonic System,” Optics Express, vol. 19, no. 17, pp. 15908-15918, Aug. 2011.
+1.  Wei E.I. Sha, Wallace C.H. Choy, Yongpin P. Chen, and Weng Cho Chew, “[Optical Design of Organic Solar Cell with Hybrid Plasmonic System](https://doi.org/10.1364/OE.19.015908),” Optics Express, vol. 19, no. 17, pp. 15908-15918, Aug. 2011.
 
-2.  Chengnian Huang and Wei E.I. Sha, “A Parallel Block Preconditioner-Based VIE-FFT Algorithm for Modeling the Electromagnetic Response From Nanostructures,” IEEE Transactions on Antennas and Propagation, vol. 72, no. 1, pp. 1051-1056, Jan. 2024.
+2.  Chengnian Huang and Wei E.I. Sha, “[A Parallel Block Preconditioner-Based VIE-FFT Algorithm for Modeling the Electromagnetic Response From Nanostructures](https://doi.org/10.1109/TAP.2023.3331512),” IEEE Transactions on Antennas and Propagation, vol. 72, no. 1, pp. 1051-1056, Jan. 2024.
 
 
 ## Data folder
